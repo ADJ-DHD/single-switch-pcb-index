@@ -9,10 +9,10 @@ Single-switch PCBs offer exceptional flexibility for hand-wired keyboards, makin
 
 The goal is simply to collect these projects in one place, making them easier to discover, compare and build upon.
 
-| | Project | MX | Choc V1 | Choc V2 | Hotswap | Per-key LED | Diode | Gerbers | Repository | Notes |
-|---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:------:|:--------:|:----------:|-------|
-| ![]() | | | | | | | | | | |
-| ![]() | | | | | | | | | | |
-| ![]() | | | | | | | | | | |
-| ![]() | | | | | | | | | | |
-| ![]() | | | | | | | | | | |
+| | Project | MX | Choc V1 | Choc V2 | Hotswap | Per-key LED | SMD Diode | THT Diode | Notes |
+|---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:---------:|:---------:|-------|
+| ![]() | | | | | | | | | |
+| ![]() | | | | | | | | | |
+| ![]() | | | | | | | | | |
+| ![]() | | | | | | | | | |
+| ![]() | | | | | | | | | |
