@@ -11,7 +11,7 @@ The goal is simply to collect these projects in one place, making them easier to
 
 | | Project | MX | Choc V1 | Choc V2 | Hotswap | Per-key LED | SMD Diode | THT Diode | Notes |
 |---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:---------:|:---------:|-------|
-| ![SU120 PCB](images/su120.jpg) | [SU120](https://github.com/kissetfall/su120-keyboard)|✅ |✅ |❌| ✅| ❌|✅ |✅ | |
+| ![](images/su120.jpg) | [SU120](https://github.com/kissetfall/su120-keyboard)|✅ |✅ |❌| ✅| ❌|✅ |✅ | |
 | ![]() | | | | | | | | | |
 | ![]() | | | | | | | | | |
 | ![]() | | | | | | | | | |
