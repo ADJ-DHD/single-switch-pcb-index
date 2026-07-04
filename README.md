@@ -1,2 +1,11 @@
 # single-switch-pcb-index
-A list of open-source single-switch PCB designs, with links to their original repositories and Gerber files where available. For handwired keyboard hobbyists
+
+# Single Switch PCB Index
+
+A list of open-source single-switch PCB designs, with links to their original repositories and Gerber files where available.
+
+I created this repository primarily as a reference for myself, but hope it is useful to other keyboard hobbyists looking for existing designs rather than reinventing them.
+
+Single-switch PCBs offer exceptional flexibility for hand-wired keyboards, making it possible to build almost any layout while retaining the advantages of a PCB, such as hotswap sockets, per-key LEDs and diode support.
+
+The goal is simply to collect these projects in one place, making them easier to discover, compare and build upon.
