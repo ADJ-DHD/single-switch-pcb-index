@@ -8,3 +8,11 @@ I created this repository primarily as a reference for myself, but hope it is us
 Single-switch PCBs offer exceptional flexibility for hand-wired keyboards, making it possible to build almost any layout while retaining the advantages of a PCB, such as hotswap sockets, per-key LEDs and diode support.
 
 The goal is simply to collect these projects in one place, making them easier to discover, compare and build upon.
+
+| | Project | MX | Choc V1 | Choc V2 | Hotswap | Per-key LED | Diode | Gerbers | Repository | Notes |
+|---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:------:|:--------:|:----------:|-------|
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
