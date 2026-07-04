@@ -10,9 +10,9 @@ Single-switch PCBs offer exceptional flexibility for hand-wired keyboards, makin
 The goal is simply to collect these projects in one place, making them easier to discover, compare and build upon.
 
 | | Project | MX | Choc V1 | Choc V2 | Hotswap | Direct Solder|Per-key LED | SMD Diode | THT Diode | Notes |
-|---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:---------:|:---------:|-------|
+|---|---------|:--:|:--------:|:--------:|:--------:|:-----------:|:-----------:|:---------:|:---------:|-------|
 | ![](Images/su120.jpg) | [SU120](https://github.com/kissetfall/su120-keyboard)|✅|✅|❌|✅|❌|❌|✅|✅| |
-| ![]() | | | | | | | | | ||
-| ![]() | | | | | | | | | ||
-| ![]() | | | | | | | | | ||
-| ![]() | | | | | | | | | ||
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
+| ![]() | | | | | | | | | | |
