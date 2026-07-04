@@ -1,4 +1,3 @@
-# single-switch-pcb-index
 
 # Single Switch PCB Index
 
